@@ -7,7 +7,7 @@ This repo consists of the back- testing  process and results of  the simple hedg
 3. Activate the virtual environment according to your operating system: 
     * `.\.venv\Scripts\Activate.ps1` (windows powershell)
     * `source .venv/bin/activate` (linux)
-    * `.\.venv\bin\activate.bat` (windows cmd)
+    * `.\.venv\Scripts\activate.bat` (windows cmd)
 4. Install the dependencies: `pip install -r requirements.txt`
 5. Deactivate the virtual environment: `deactivate`
 
