@@ -1,4 +1,4 @@
-# Simple Hedging Stratergy
+# Simple Hedging Strategy
 This repo consists of the back- testing  process and results of  the simple hedging strategy.
 
 ## Activate the virtual environment for the back-testing:
